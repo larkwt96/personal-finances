@@ -2,9 +2,11 @@
 
 Somehow money is made, and this is called income. There are costs to living, and these are called expenses. You control many aspects of what income and expenses you have, but the goal is to maximize money flow (income minus expenses). If money flow is positive, then you are making money. With this extra money, you can create more income.
 
-Keep your extra money in high interest accounts. At first, this is savings. It's possible to get a high interest savings account (e.g. with Ally Bank). Then you can invest or pay off loans. You can pay off loans or invest in the stock markets (retirement fund or taxed accounts). To invest, use Vanguard. You can track your accounts and set a budget with Mint.com. Use credit cards to make daily purchases to build credit and reap rewards. Pay them off in full with your checking account (auto payments are nice).
+Keep your extra money in high interest accounts . At first, this is savings. It's possible to get a high interest [savings account](#saving) (e.g. with Ally Bank). Then you can pay down [loans or invest](#stocks) in the retirement fund or taxed stock accounts (e.g. with Vanguard). You should track your [accounts](#accounts) and set a budget (e.g. with Mint). Use [credit cards](#credit-cards) to make daily purchases to build credit and earn rewards with every purchase. Pay them off in full with your checking account (auto payments are nice).
 
 ## Types of Income and Expenses
+
+These are the ways you can get and spend money.
 
 * Income (+)
   * Paycheck / Salary 
@@ -20,6 +22,8 @@ Keep your extra money in high interest accounts. At first, this is savings. It's
 
 ## Accounts
 
+These are the places to store your money. Some earn you more money than others.
+
 * Checking account
 * Savings account
 * Credit cards
@@ -28,9 +32,9 @@ Keep your extra money in high interest accounts. At first, this is savings. It's
   * 401k
   * ETFs / Index Funds
 
-## Basic Flow
+## Basic Flow (#accounts)
 
-Money originates from your income. It flows into your checking account. From there, Expenses are paid. Extra funds are moved to your savings. When your savings account large enough, extra funds are moved to investments such as your retirement fund (Roth IRA, 401k) and finally ETFs or index funds or loans.
+Money originates from your income. It flows into your checking account. From there, expenses are paid. Extra funds are moved to your savings. When your savings account large enough, extra funds are moved to investments such as your retirement fund (Roth IRA, 401k) and finally ETFs or index funds or loans.
 
 The flow of money will transfer between these accounts. When one is full, it moves to the next account. Savings have a self imposed cap, retirement funds have a cap, and stocks have no cap.
 
@@ -48,7 +52,7 @@ Income
 -> Property ?
 -> Businesses ? 
 
-# Guide to Checking and Savings
+# Guide to Checking and Savings (#saving)
 
 ## Emergency Fund
 
@@ -64,7 +68,7 @@ If the checking account goes over the 2 month amount, the extra money should go 
 
 If you are saving for something (down payment on house, laptop, etc), keep the money in your savings to take advantage of higher interest rates, and move it to checking when you make the purchase. Also, try to make the purchase with a credit card if possible.
 
-## Interest
+## Interest 
 
 Get high yield savings accounts to maximize your interest. Currently, interest rates can be around 2% which can yield several hundred dollars per year.
 
@@ -75,7 +79,7 @@ I recommend Ally Bank
 * Free checks and debit cards
 * ACH transfers are free
 
-# Guide to Credit Cards
+# Guide to Credit Cards (#credit-cards)
 
 Credit cards do two things: build credit and give rewards for daily expenses. If paid in full each month, you'll never pay interest. For that reason, use the credit card for everything, and never use your debit card or cash.
 
@@ -115,7 +119,7 @@ I've noticed 4 types of cards, generally.
 * 5% cash back on food, gas, travel but during limited times
   * I'm pretty sure these are for families with high expenses
 
-# Guide to Investing
+# Guide to Investing (#stocks)
 
 Main tips:
 * Pay monthly loans
@@ -147,7 +151,7 @@ Any time you have extra money, you have to consider where to put it.
   * If you really need to, open a new card with 0% apr for a year. Then, make a large purchase. This is a way to get a 0% interest rate loan.
 * Stocks
 
-## Stocks
+## Stocks 
 
 * Roth IRA (~10%)
   * Tax free investing until your 59.5
