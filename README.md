@@ -2,7 +2,7 @@
 
 Somehow money is made, and this is called income. There are costs to living, and these are called expenses. You control many aspects of what income and expenses you have, but the goal is to maximize money flow (income minus expenses). If money flow is positive, then you are making money. With this extra money, you can create more income.
 
-Keep your extra money in high interest accounts . At first, this is savings. It's possible to get a high interest [savings account](#saving) (e.g. with Ally Bank). Then you can pay down [loans or invest](#stocks) in the retirement fund or taxed stock accounts (e.g. with Vanguard). You should track your [accounts](#accounts) and set a budget (e.g. with Mint). Use [credit cards](#credit-cards) to make daily purchases to build credit and earn rewards with every purchase. Pay them off in full with your checking account (auto payments are nice).
+Keep your extra money in high interest accounts . At first, this is savings. It's possible to get a high interest [savings account](#guide-to-checking-and-savings) (e.g. with Ally Bank). Then you can pay down [loans or invest](#guide-to-investing) in the retirement fund or taxed stock accounts (e.g. with Vanguard). You should track your [accounts](#basic-flow) and set a budget (e.g. with Mint). Use [credit cards](#guide-to-credit-cards) to make daily purchases to build credit and earn rewards with every purchase. Pay them off in full with your checking account (auto payments are nice).
 
 ## Types of Income and Expenses
 
@@ -32,7 +32,7 @@ These are the places to store your money. Some earn you more money than others.
   * 401k
   * ETFs / Index Funds
 
-## Basic Flow (#accounts)
+## Basic Flow
 
 Money originates from your income. It flows into your checking account. From there, expenses are paid. Extra funds are moved to your savings. When your savings account large enough, extra funds are moved to investments such as your retirement fund (Roth IRA, 401k) and finally ETFs or index funds or loans.
 
@@ -52,7 +52,7 @@ Income
 -> Property ?
 -> Businesses ? 
 
-# Guide to Checking and Savings (#saving)
+# Guide to Checking and Savings
 
 ## Emergency Fund
 
@@ -79,7 +79,7 @@ I recommend Ally Bank
 * Free checks and debit cards
 * ACH transfers are free
 
-# Guide to Credit Cards (#credit-cards)
+# Guide to Credit Cards
 
 Credit cards do two things: build credit and give rewards for daily expenses. If paid in full each month, you'll never pay interest. For that reason, use the credit card for everything, and never use your debit card or cash.
 
@@ -90,7 +90,7 @@ Make sure
 
 ## Credit Score
 
-I'm no expert, but here's what I do know.
+I'm no expert, but here's what I do know. Basically read r/churning.
 
 Multiple lines of credit are valued, and cards have signing bonuses. When your credit score is high enough from your first credit card to get good reward cards, apply for new credit cards, get the signing bonus, and then leave them open forever. If they aren't $0 annual fee cards, then convert them to fee less cards if you can. Repeat this 3 or 4 times (do more research if you want to continue doing this further).
 
@@ -102,9 +102,9 @@ Multiple lines of credit are valued, and cards have signing bonuses. When your c
   * Lots credit inquiries
   * Closing credit lines
 
-Opening too many accounts within a short period of time (2 months) can cause a lot of inquires and looks bad. However, 3-4 inquiries spaced out in a year is fine. This also reduces your average credit age, so once you have enough cards, you don't need more.
+Opening too many accounts within a short period of time (2 months) can cause a lot of inquires and looks bad. However, 3-4 inquiries spaced out in a year is fine since they disappear quick.
 
-Closing credit cards is bad too. Instead, you can try to convert the card to a $0 annual fee card. This keeps the credit line open and doesn't hurt you. However, closing the account doesn't influence your score after two years, so if you have to close a credit card account, don't apply for auto or mortgage loans within those two years.
+Closing credit cards is bad too. Instead, you can try to downgrade the card to a $0 annual fee card. This keeps the credit line open and doesn't hurt you. However, closing the account doesn't influence your score after two years, so if you have to close a credit card account, don't apply for auto or mortgage loans within those two years. Don't close your oldest account.
 
 ## Rewards
 
@@ -119,7 +119,7 @@ I've noticed 4 types of cards, generally.
 * 5% cash back on food, gas, travel but during limited times
   * I'm pretty sure these are for families with high expenses
 
-# Guide to Investing (#stocks)
+# Guide to Investing
 
 Main tips:
 * Pay monthly loans
@@ -137,7 +137,7 @@ It's import to understand compound interest, and there's tons of guides online. 
 * The same is true for mixed interest. Suppose you have a student loan debt growing at 5%, but investing in the market might yield 6%. It's financially optimal (ignoring risk) to invest in the market instead of paying down your loan with extra cash (you should always pay your monthly payment)
 * Credit card rates are extremely high. It's a really bad idea to let these types of debts sit and should be made a priority to pay off.
 
-## Where Should Extra Money Go?
+## Extra Fund Allocation
 
 Any time you have extra money, you have to consider where to put it.
 * Savings account (2%)
@@ -149,9 +149,9 @@ Any time you have extra money, you have to consider where to put it.
 * Credit card debt (~ -15%)
   * Pay your card in full.
   * If you really need to, open a new card with 0% apr for a year. Then, make a large purchase. This is a way to get a 0% interest rate loan.
-* Stocks
+* Retirement fund / Investments
 
-## Stocks 
+## Investment Options
 
 * Roth IRA (~10%)
   * Tax free investing until your 59.5
