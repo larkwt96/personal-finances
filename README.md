@@ -1,8 +1,10 @@
 # Everything I Know About Finances
 
-Somehow money is made, and this is called income. There are costs to living, and these are called expenses. You control many aspects of what income and expenses you have, but the goal is to maximize money flow (income minus expenses). If money flow is positive, then you are making money. With this extra money, you can create more income.
+Somehow money is made, and this is called income. There are costs to living, and these are called expenses. You control many aspects of what income and expenses you have, but the goal is to maximize how much you save. With this extra money, you can create more income. Eventually, you have 
 
-Keep your extra money in high interest accounts . At first, this is savings. It's possible to get a high interest [savings account](#guide-to-checking-and-savings) (e.g. with Ally Bank). Then you can pay down [loans or invest](#guide-to-investing) in the retirement fund or taxed stock accounts (e.g. with Vanguard). You should track your [accounts](#basic-flow) and set a budget (e.g. with Mint). Use [credit cards](#guide-to-credit-cards) to make daily purchases to build credit and earn rewards with every purchase. Pay them off in full with your checking account (auto payments are nice).
+Keep your extra money in high interest accounts. It's possible to get a high interest [savings account](#guide-to-checking-and-savings) (e.g. with Ally Bank). This keeps your money saver from inflation. Then you can pay down [loans or invest](#guide-to-investing) in the retirement fund or taxed stock accounts (e.g. with Vanguard). You should track your [accounts](#basic-flow) and set a budget (e.g. with Mint). Use [credit cards](#guide-to-credit-cards) to make daily purchases to build credit and earn rewards with every purchase. Pay them off in full with your checking account (auto payments are nice). 
+
+Depending on your income and expenses, you'll eventually have enough to live off your retirement fund alone. The general rule is have 25 times what you want your salary to be. That's because you will pull out 4% of your retirement assets every year, and they will grow back by the end. There are ways of getting retirement funds out before 59.5 if you can retire early.
 
 ## Types of Income and Expenses
 
@@ -19,6 +21,7 @@ These are the ways you can get and spend money.
   * Credit card loans
   * Personal loans
   * Large purchases (trips, computers)
+  * Kids
 
 ## Accounts
 
