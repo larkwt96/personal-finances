@@ -99,8 +99,6 @@ The number one rule is to pay them off as soon as possible. Interest rates are r
 
 ## Credit Score
 
-I'm no expert, but here's what I do know.
-
 Multiple lines of credit are valued, and cards have signing bonuses. When your credit score is high enough (670+) to get good reward cards, apply for new credit cards, get the signing bonus, and then leave them open forever. This is a really good way to boost your credit score.
 
 If they aren't $0 annual fee cards, then downgrade them to no annual fee cards if you can; otherwise, close them as soon as possible. Repeat this 3 or 4 times, and watch your credit score dip a tiny bit and then sky rocket. If you want to continue doing this for the free money, do more research; it's called credit card churning (reddit is very helpful here).
@@ -132,6 +130,16 @@ I've noticed 4 types of cards, generally.
   * You can close/downgrade the account before the first annual fee
 * 5% cash back on food, gas, travel but during limited times
   * I'm pretty sure these are for families with high expenses
+
+## Churning
+
+Credit card churning is when you open lots of credit cards, get the rewards, and then close it. It's not great for your credit score, so it's generally not advised unless you absolutely know you're not taking out any loans (car, mortgage, personal) in the next two years. If you're credit score is above 800, then even then, it's probably fine. If you have really old lines of credit, be sure to close the accounts not downgrade them since leaving them open will lower your average age of credit lines. Finally, don't spend money you wouldn't have just to get the reward. That defeats the purpose.
+
+## Recomendation
+
+I'm no expert, but here's what I know.
+
+Open a credit card to build credit. Once your credit score's high enough to get good reward cards, get 3-5 more. If you want, go up to 10 cards, but only do this if you don't plan on applying for car or mortgage loans within 1-2 years. The credit score dents are small and don't stay very long.
 
 # Guide to Investing
 
