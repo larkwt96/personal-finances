@@ -4,9 +4,9 @@ Money you make is income, and money you spend are expenses. The goal is to maxim
 
 First, you build a savings, and it's possible to get a high interest [savings account](#guide-to-checking-and-savings) (e.g. with Ally Bank). This keeps your money safer from inflation. You should track your [accounts](#basic-flow) and set a budget (e.g. with Mint). Use [credit cards](#guide-to-credit-cards) to make daily purchases to build credit and earn rewards with every purchase. Pay them off in full with your checking account (auto payments are helpful).
 
-Then with extra funds, you can pay down loans or [invest](#guide-to-investing) in the [retirement fund](#guide-to-retirement) or taxed stock accounts (e.g. with Vanguard). If your employer matches contributions to your 401k, max that; it's free money. Then, max your Traditional IRA or your Roth IRA (you can only contribute $6k per year). Then, max the rest of your 401k (up to $19k a year). After that, invest in normal investment accounts. Within all the accounts, invest in US and international index funds / ETFs and bonds.
+Then with extra funds, you can pay down loans or [invest](#guide-to-investing) in the [retirement fund](#guide-to-retirement) or taxed stock accounts (e.g. with Vanguard). If your employer matches contributions to your 401k, max that; it's free money. Then, max your Traditional IRA or your Roth IRA (you can only contribute $6k per year). Then, max the rest of your 401k (up to $19k a year). Any income which didn't get contributed to the 401k can be invested in non-qualified (taxed) investment accounts. Within all the accounts, invest in US and international index mutual funds / ETFs and bonds. If you're saving up for a car or house, CDs and non-qualified stocks are a good investment in the mean time, but you should wait 5 years before selling purchased stocks, so plan accordingly.
 
-Depending on your income and expenses, you'll eventually have enough to live off your retirement fund alone. The general rule is have 25 times what you want your salary to be. That's because you will pull out 4% of your retirement assets every year, and they will grow back by the end. There are ways of getting retirement funds out before 59.5 if you can retire early.
+Depending on your income and expenses, you'll eventually have enough to live off your retirement fund alone. The general rule is have 25 times what you want your salary to be. That's because you will pull out 4% of your retirement assets every year, and they will grow back by the end. There are ways of getting retirement funds out before 59.5 if you can retire early, but if this is the case, then you should plan and consult an expert to make an offical plan.
 
 ## Types of Income and Expenses
 
@@ -24,7 +24,7 @@ These are the ways you can get and spend money.
   * Student loans
   * Credit card loans
   * Personal loans
-  * Large purchases (trips, computers)
+  * Large purchases: trips, computers, house down payments
   * Kids
 
 ## Accounts
