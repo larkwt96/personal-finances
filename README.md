@@ -196,6 +196,33 @@ Any time you have extra money, you have to consider where to put it.
   * If you have loans, you should just pay those off since the interest rates of loans are often higher than CDs
   * This is a good place to put money when you have a specific time you know you'll need it. For example, if you're saving up for something or if you're feeling risky with your emergency fund.
 
+## The Math
+
+* Average Market Growth: 10%
+* Inflation Rate: 2.56%
+* Inflation adjusted growth rate: 7.25
+* Post tax, inflation adjusted growth rate: 6.17
+
+When you own stocks, you get dividends and there's a tax on your earnings at some percentage.
+
+When you get capital gains, you pay income tax for less than a year capital gains, and you pay 15% for more than 1 year earnings. 
+
+Inflation adjusted rate is calculated by 
+
+  (1 + market growth) / (1 + inflation rate) - 1
+
+Some approximated it with
+
+  market growth - inflation rate
+
+# Guide to Taxes
+
+Hire someone to avoid crying. Worst case, just take the standard deductible. 
+
+You can deduct taxes on capital gains by taking into account capital losses.
+
+You can use interest on housing and student loans to deduct taxes. There's a base deductible and itemized. You have to choose one, and the latter is more work, but could potentially earn you more. Even if you choose the base amount, you can still deduct even more, like student loan interest.
+
 # Guide to Retirement
 
 To maximize your money, you want to invest. When you get an income (usually from a job) it's taxed. Then, when you invest and your money grows, it's taxed again. Retirement funds are ways of avoiding or deferring the taxes. All earnings on retirement investments are not taxed. For more details, see below: [401k](#401k), [Tradition IRA](#traditional-ira), [Roth IRA](#roth-ira).

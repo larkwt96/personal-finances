@@ -1,4 +1,5 @@
 import numpy as np
+from tools import *
 
 """
 This tool lets you figure out how much money you're missing out on if you
@@ -14,16 +15,6 @@ want to have a smaller income, then go for traditional IRA.
 # Util
 k = 1000
 ira_dept = 6*k  # ignores change at 50
-tax_brackets = [
-    (.1, 9700),
-    (.12, 39475),
-    (.22, 84200),
-    (.24, 160725),
-    (.32, 204100),
-    (.35, 510300),
-    (.37, np.inf),
-]
-
 
 # Config
 salary = 60*k
@@ -32,27 +23,6 @@ expenditure = 20*k
 nonqual = 1 + 5 / 100  # 5% inflation adjusted taxed investment rate
 qual = 1 + 7 / 100  # 7% inflation adjusted untaxed investment rate
 years = 35
-
-
-def post_tax(salary):
-    tax = 0
-    last_level = 0
-    for rate, level in tax_brackets:
-        if salary > level:
-            tax += rate * (level-last_level)
-        else:
-            tax += rate * (salary - last_level)
-            break
-        last_level = level
-    return salary - tax
-
-
-def grow(year_dept, rate, time):
-    total = 0
-    for i in range(time):
-        total += year_dept
-        total *= rate
-    return total
 
 
 def roth():
